@@ -1,0 +1,4 @@
+﻿  seminar5SDD.c
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar5SDD\seminar5SDD.c(19,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar5SDD\seminar5SDD.c(20,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Seminar 5.vcxproj -> C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar5SDD\x64\Debug\Seminar 5.exe
