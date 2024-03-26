@@ -1,0 +1,11 @@
+﻿  FileName.c
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\FileName.c(28,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\FileName.c(29,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\FileName.c(94,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\FileName.c(155,28): warning C4474: 'printf' : too many arguments passed for format string
+  Seminar 6.c
+  C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\FileName.c(155,28):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  Generating Code...
+  seminar6SDD.vcxproj -> C:\Users\User\source\repos\Jidras_Mihaela_ActivitateSD2024\seminar6SDD\x64\Debug\seminar6SDD.exe
